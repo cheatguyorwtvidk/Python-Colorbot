@@ -9,4 +9,6 @@ code is open source so no it isnt a virus.
 
 you can change how fast the bot detects the color by changing it in the config file.
 default is 0.001 or smth idk
+
+to drag the ui just hold the text. it should drag it wherever you want.
 have fun and dont get banned!
